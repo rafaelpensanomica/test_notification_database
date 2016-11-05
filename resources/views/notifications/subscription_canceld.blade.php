@@ -1,0 +1,1 @@
+<li>your subscription was canceled {{ $notification->data['subscription_ended']['date'] }}</li>

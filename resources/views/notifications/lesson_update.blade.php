@@ -1,0 +1,1 @@
+<li>lesson: {{$notification->data['title']}}</li>
